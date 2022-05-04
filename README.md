@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @VNavrockij
 - 👀 I’m interested in programming.
-- 🌱 I’m currently learning Java, SQL, Swift, HTML, CSS, JS.
+- 🌱 I’m currently learning Swift, HTML, CSS, JS, SQL.
 - 💞️ I’m looking to collaborate with professional people and grow.
 - 📫 How to reach me: vitalik.nav@gmail.com
