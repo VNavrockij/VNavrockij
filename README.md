@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @VNavrockij
+- 👋 Hi, I’m Vitalii Navrotskyi
 - 👀 I’m interested in programming.
 - 🌱 Work with Swift, HTML, CSS, JS, SQL.
 - 💞️ I’m looking to collaborate with professional people and grow.
